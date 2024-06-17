@@ -1,11 +1,11 @@
-# Desafio Classificador de Nível de Herói
+# Hero Level Classifier Challenge
 
-## O Que Deve Ser Utilizado
+## What Should Be Used
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
+- Variables
+- Operators
+- Loops
+- Decision Structures
 
 ## Objetivo
 Neste desafio, você irá criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói. Em seguida, utilize uma estrutura de decisão para apresentar uma das mensagens abaixo:
