@@ -7,24 +7,24 @@
 - Loops
 - Decision Structures
 
-## Objetivo
-Neste desafio, você irá criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói. Em seguida, utilize uma estrutura de decisão para apresentar uma das mensagens abaixo:
+## Objective
+In this challenge, you will create a variable to store the name and the amount of experience (XP) of a hero. Then, use a decision structure to present one of the following messages:
 
-- Se XP for menor do que 1.000 = Ferro
-- Se XP for entre 1.001 e 2.000 = Bronze
-- Se XP for entre 2.001 e 5.000 = Prata
-- Se XP for entre 6.001 e 7.000 = Ouro
-- Se XP for entre 7.001 e 8.000 = Platina
-- Se XP for entre 8.001 e 9.000 = Ascendente
-- Se XP for entre 9.001 e 10.000 = Imortal
-- Se XP for maior ou igual a 10.001 = Radiante
+- If XP is less than 1,000 = Iron
+- If XP is between 1,001 and 2,000 = Bronze
+- If XP is between 2,001 and 5,000 = Silver
+- If XP is between 6,001 and 7,000 = Gold
+- If XP is between 7,001 and 8,000 = Platinum
+- If XP is between 8,001 and 9,000 = Ascendant
+- If XP is between 9,001 and 10,000 = Immortal
+- If XP is greater than or equal to 10,001 = Radiant
 
-## Saída
+## Output
 
-Ao final, deve-se exibir a seguinte mensagem:
+In the end, the following message should be displayed:
 
-**"O Herói de nome {nome} está no nível de {nivel}"**
+**"The Hero named {name} is at the {level} level"**
 
-## Conclusão
+## Conclusion
 
-Este desafio proporcionou uma oportunidade valiosa para aplicar conceitos fundamentais de programação, incluindo o uso de variáveis, operadores, laços de repetição e estruturas de decisões. Ao classificar o nível de um herói com base na quantidade de experiência (XP) acumulada, você fortaleceu suas habilidades lógicas e de implementação em JavaScript.
+This challenge provided a valuable opportunity to apply fundamental programming concepts, including the use of variables, operators, loops, and decision structures. By classifying the level of a hero based on the amount of experience (XP) accumulated, you strengthened your logical and implementation skills in JavaScript.
